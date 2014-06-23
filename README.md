@@ -1,4 +1,4 @@
 PROJET_WEB
 ==========
 
-Oyé Oyé :)
+Version 0.3 by exiaTeam.
